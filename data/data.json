@@ -1,0 +1,50 @@
+{
+    "mensajesRecibidos":
+        [
+            {
+                "emisor": "belen.gonzalez@gmail.com",
+                "asunto": "Envio de Facturación",
+                "msje": "Recorda que tenes 7 días hábiles para enviar las planillas de facturación a la oficina central, saludos"
+            },
+            {
+                "emisor": "camila.matt@gmail.com",
+                "asunto": "Invitación BabyShower",
+                "msje": "Te invito al BabyShower de Leon, este viernes a las 17hs en el salon Miraflor. Te esperamos!!"
+            },
+            {
+                "emisor": "alfre_do@gmail.com",
+                "asunto": "Autorización estudios",
+                "msje": "Los estudios que solicitó se encuentran autorizados bajo el código HJSUY"
+            },
+            {
+                "emisor": "vigue1997@gmail.com",
+                "asunto": "Seguimiento de Pedido",
+                "msje": "Tu pedido ha sido despachado correctamente, para seguir el mismo podes utilizar este codigo desde la pagina del correo puyqrw. Gracias por elegirnos!"
+            },
+            {
+                "emisor": "ezequiel.perez@gmail.com",
+                "asunto": "Solicitud de Presupuesto",
+                "msje": "Estimado/a: ya puede retirar el presupuesto solicitado desde nuestra sucursal central"
+            },
+            {
+                "emisor": "alfre_do@gmail.com",
+                "asunto": "Resultados Laboratorio",
+                "msje": "Ya se encuentran disponibles sus resultados de laboratorio, estos pueden ser retirados de lunes a jueves de 08hs a 13hs"
+            },
+            {
+                "emisor": "camila.matt@gmail.com",
+                "asunto": "Inscripción Curso",
+                "msje": "Felicitaciones!!! Ya te encuentras inscripto en el curso de Cuidado de mis Finanzas. Nos vemos la semana proxima"
+            },
+            {
+                "emisor": "belen.gonzalez@gmail.com",
+                "asunto": "Recepción de Faturación",
+                "msje": "Se han recibido correctamente las planillas de facturación del período anterior, atte."
+            },
+            {
+                "emisor": "alfre_do@gmail.com",
+                "asunto": "Cena de Gala",
+                "msje": "Este Jueves a las 19hs nos reuniremos en el Salon de Usos Multiples de la Empresa para discutir los detalles de la Cena de Gala, no faltes!"
+            }
+        ]
+}
